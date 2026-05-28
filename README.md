@@ -12,10 +12,6 @@
 
 ---
 
-## 🚀 Demonstração
-
-🔗 **Deploy do projeto:**
-👉 https://041067.github.io/Clone-da-tela-de-login-do-instagram-com-Tailwind-CSS/
 
 ---
 
