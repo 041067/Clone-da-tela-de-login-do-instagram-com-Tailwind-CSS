@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Clone moderno da tela de login do Instagram desenvolvido com <strong>HTML5</strong> e <strong>Tailwind CSS</strong>, focado em responsividade, fidelidade visual e boas práticas de Front-End.
+  Clone moderno da tela de login do Instagram desenvolvido com <strong>HTML5</strong> e <strong>Tailwind CSS</strong>, focado em fidelidade visual e boas práticas de Front-End.
 </p>
 
 ---
