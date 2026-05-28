@@ -26,9 +26,9 @@
 # ✨ Funcionalidades
 
 ✅ Interface inspirada na tela oficial do Instagram
-✅ Layout moderno e responsivo
+✅ Layout moderno 
 ✅ Estrutura organizada utilizando Tailwind CSS
-✅ Compatível com desktop e dispositivos móveis
+✅ Compatível com desktop 
 ✅ Componentização visual utilizando classes utilitárias
 
 ---
