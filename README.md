@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TailwindCSS-3.x-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Concluído-8A2BE2?style=for-the-badge" />
 </p>
 
@@ -25,8 +24,6 @@
 <p align="center">
   <img src="./src/img/preview.png" alt="Preview do Projeto" width="800"/>
 </p>
-
-> 💡 Recomendação: adicione uma captura de tela do projeto com o nome `preview.png` dentro da pasta `src/img`.
 
 ---
 
@@ -158,7 +155,7 @@ Feito por **Renan Rodrigues**
 https://github.com/041067
 
 🔗 LinkedIn:
-https://www.linkedin.com/
+www.linkedin.com/in/renan-rodrigues-borges-café-812056203
 
 ---
 
